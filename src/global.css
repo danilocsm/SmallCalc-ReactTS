@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-zinc-600;
+    @apply h-full w-full;
+    @apply grid justify-center;
+}
